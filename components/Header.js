@@ -13,7 +13,7 @@ function Header() {
   return (
     <header className="flex flex-col sm:flex-row m-5 justify-between items-center h-auto">
       <Image
-        className="object-contain"
+        className="object-contain cursor-pointer"
         src="https://links.papareact.com/ua6"
         width={200}
         height={100}
